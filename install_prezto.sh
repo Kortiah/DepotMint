@@ -11,3 +11,4 @@ ln -s ~/.zprezto/runcoms/zshenv ~/.zshenv
 ln -s ~/.zprezto/runcoms/zshrc ~/.zshrc
 chsh -s $(which zsh)
 
+# Ajout de trucs pour test branch
