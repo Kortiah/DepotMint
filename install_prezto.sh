@@ -1,5 +1,6 @@
 #!/bin/sh
 
+#Changement sur le master
 sudo apt-get install zsh git
 cd ~
 git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
